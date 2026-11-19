@@ -18,36 +18,6 @@ cs undergrad @ CIT chennai.
 
 ---
 
-**experience**
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<img src="https://placehold.co/450x1/1a0a2e/1a0a2e.png" width="100%" height="1" alt=""/>
-<strong>XBP Asia</strong><br/>
-<sub>MAY – JUN 2026</sub><br/><br/>
-Agentic AI & automation — built multi-agent pipelines and automation workflows using n8n.<br/><br/>
-<code>n8n</code> <code>Agentic AI</code> <code>Prompt Engineering</code>
-</td>
-<td width="33%" valign="top">
-<img src="https://placehold.co/450x1/1a0a2e/1a0a2e.png" width="100%" height="1" alt=""/>
-<strong>Botsedge Technologies</strong><br/>
-<sub>NOV – DEC 2025</sub><br/><br/>
-Full stack dev — Angular + Spring Boot apps, RESTful APIs, and JWT auth end to end.<br/><br/>
-<code>Angular</code> <code>Spring Boot</code> <code>JWT</code> <code>REST APIs</code>
-</td>
-<td width="33%" valign="top">
-<img src="https://placehold.co/450x1/1a0a2e/1a0a2e.png" width="100%" height="1" alt=""/>
-<strong>Zero2Site</strong><br/>
-<sub>MAY – JUN 2025</sub><br/><br/>
-Database management — SQL and NoSQL backend components for web apps.<br/><br/>
-<code>SQL</code> <code>NoSQL</code> <code>Backend</code>
-</td>
-</tr>
-</table>
-
----
-
 **projects**
 
 <table width="100%">
@@ -94,21 +64,6 @@ Hybrid deep learning framework for securing healthcare IoT — autoencoders for 
 </td>
 </tr>
 </table>
-
----
-
-**achievements**
-
-<div align="center">
-
-```
-   LeetCode Knight   │  870+ solved  ·  1946 max rating
-   Shaastra '26 IIT Madras  │  E-Contest  ·  top 50 finalists
-   Takshashila '26 CIT  │  Speedathon  ·  top 20 teams
-   AeroTHON 2026  │  Autonomous Drone  ·  top 20 teams nationally
-```
-
-</div>
 
 ---
 
